@@ -1,4 +1,4 @@
- Studio Starter Applets
+jj Studio Starter Applets
 
 This repository contains the source code for AI Studio's
 [starter apps](https://aistudio.google.com/app/starter-apps) — a collection of
