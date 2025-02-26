@@ -5,7 +5,7 @@ This repository contains the source code for AI Studio's
 small apps that demonstrate how Gemini can be used to create interactive
 experiences. These apps are built to run inside AI Studio, but the versions
 included here can run standalone using the
-[Gemini API](https://ai.google.dev/gemini-api/docs).
+[Gemini API](https:ev/gemini-api/docs).
 
 ## Spatial Understanding
 
